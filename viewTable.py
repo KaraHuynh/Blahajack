@@ -10,7 +10,7 @@ def viewTable(yourMatch,opponentMatch):
     #background
     screen.blit(pygame.image.load('./images/table' + f'{turn.p_turn}' + '.png'), (0,0))
 
-    numberMatches(player1Matches,player2Matches)
+    numberMatches()
     viewDefault()
 
     # Put current players stuff on screen

@@ -4,7 +4,7 @@ class Deck:
 
     def __init__(self):
         self.cards = []
-        
+    
     def reset(self):
         self.cards.clear()
         for i in range(75):

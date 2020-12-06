@@ -1,4 +1,3 @@
-from pygame import *
 
 # their low 547, 498
 # their med 1003, 496
@@ -6,7 +5,6 @@ from pygame import *
 # your low 544, 873
 # your med 1000, 888
 # your high 1459, 886
-tableCardCountLocations = [[(544, 873),(1000, 888),(1459, 886)],[(547, 498),(1003, 496),(1458, 499)]]
 
 def viewTable(yourMatch,opponentMatch):
     #background

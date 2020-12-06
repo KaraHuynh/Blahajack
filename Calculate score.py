@@ -1,11 +1,5 @@
 import pygame
 
-player1Score = 0
-player2Score = 0
-
-player1Matches = ['25','25']
-player2Matches = ['25','25','50','50','100','100','100','100']
-
 # Function for calculating score
 def calculatescore(playerScore,playerMatches):
     # list of how may of each we have

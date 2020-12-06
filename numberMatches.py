@@ -2,8 +2,6 @@ import pygame
 
 
 def number_Matches(player1Matches,player2Matches):
-    # list of how may of each we have
-    p1_tablecounts = [0, 0, 0]
 
     # For each of the different values, add one
 
@@ -21,8 +19,6 @@ def number_Matches(player1Matches,player2Matches):
         amount = amount // 2
 
     # Repeat for opposite player
-
-    p2_tablecounts = [0, 0, 0]
 
     for i, m in enumerate(player2Matches):
         if m == '25':

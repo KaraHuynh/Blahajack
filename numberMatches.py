@@ -1,7 +1,10 @@
 import pygame
 
 def numberMatches(player1Matches,player2Matches):
-
+    # Reset counts
+    global p1_tablecounts, p2_tablecounts
+    p1_tablecounts,p2_tablecounts = [0] * 3,[0] * 3
+    
     # For each of the different values, add one
     p1_match = [0,0,0]
     for m in player1Matches:

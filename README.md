@@ -2,7 +2,7 @@
   BLAHAJACK - SharkHacks 2020 :shark:
 </h1>
 
-<p>
+<p align="center">
   Blahajack is a IKEA shark-themed virtual card game inspired by Monopoly, Exploding Kittens and Blackjack. The goal is to rake up as much as money as you can and beat
   your opponents. We used Python, Pygame and Adobe Photoshop to create this project. It was rewarded First Overall out of 224 participants.  
 </p>

@@ -11,4 +11,4 @@ class Turn:
             self.p_turn = 1
             print("Player 1's turn")
         else:
-            print("wtf")
+            print("test")

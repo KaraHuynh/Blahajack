@@ -16,7 +16,7 @@
   <figcaption>
     Figure 1: Welcome screen
   </figcaption>
-  <img src="https://github.com/KaraHuynh/Blahajack/blob/main/images/title.png.png"/>
+  <img src="https://github.com/KaraHuynh/Blahajack/blob/main/images/title.png"/>
   
 </figure>
 
